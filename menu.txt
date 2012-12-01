@@ -1,21 +1,12 @@
 .. sidebar:: Menu
 
    * `Home <index.html>`_
-
+   * `Important Dates <dates.html>`_
    * `Registration <registration.html>`_
-
-     * `Fees <fees.html>`_
-
-   * Conference & CFP
-
-     * `Call for papers <CFP.html>`_
-     * `Important Dates <dates.html>`_
-     * `Keynote Speakers <speakers.html>`_
-
+   * `Call for papers <CFP.html>`_
+   * `Keynote Speakers <speakers.html>`_
+   * `Tutorials <tutorials.html>`_
    * `Location <location.html>`_
-
    * `Contact <contact.html>`_
-
    * `Organizers <organizers.html>`_
-
    * `Sponsors <sponsors.html>`_

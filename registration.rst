@@ -3,4 +3,6 @@
 .. include:: footer.txt
 
 Registration
-===============================================================================
+============
+
+*Registration is not yet open.*

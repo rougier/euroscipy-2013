@@ -1,3 +1,6 @@
 .. footer::
 
-   This is the footer
+   Content by the Euroscipy Organization Team
+
+   euroscipy-org@python.org
+

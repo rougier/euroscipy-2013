@@ -15,7 +15,7 @@ Conference
 Call for Papers
 ---------------
 
-* Abstract Submission deadline: *not open yet*
+* Abstract Submission deadline: *not yet open*
 
 Registration
 -------------

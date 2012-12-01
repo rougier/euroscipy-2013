@@ -37,12 +37,6 @@ numerical algorithms, data analysis, data exploration and visualization.
 understand the general tools, workflow and best practices involved in writing
 good quality, python programs for scientific computing.
 
-**Structure of tutorial**
-
-The course will be completely hands on. All of the lecture material will expect
-users to type along and the sessions will be punctuated with exercises. The
-solutions for these exercises will also be discussed.
-
 **Pre-requisites**
 
 Attendees are expected to bring along their laptops fully setup with the

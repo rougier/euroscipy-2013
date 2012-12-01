@@ -20,6 +20,8 @@ Campus Map
 ----------
 
 .. image:: pictures/campus-map.png
+   :scale: 50%
+   :target: pictures/campus-map.png
 
 
 

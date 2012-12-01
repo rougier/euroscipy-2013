@@ -22,7 +22,11 @@ computing in science and technology. This is accomplished through:
 .. image:: pictures/logilab.png
    :target: http://www.logilab.org
 
-Logilab are scientific computing and knowledge management specialists. They are well known in the Python community: as well as being a founding member of EuroPython they release development tools for community use, one of the best known being pylint, the Python source code checker. During EuroPython 2009 Logilab will be presenting their CubicWeb framework.
+Logilab are scientific computing and knowledge management specialists. They are
+well known in the Python community: as well as being a founding member of
+EuroPython they release development tools for community use, one of the best
+known being pylint, the Python source code checker. During EuroPython 2009
+Logilab will be presenting their CubicWeb framework.
 
 Logilab are sponsoring the signage for the event, so that you can get to the talks on time!
 
@@ -37,3 +41,14 @@ visualization. In addition to full application development, we also offer
 short-term consultation to address critical technical computing needs. Our
 areas of expertise include geoscience, financial analysis, 3D modeling, fluid
 dynamics and microrheology.
+
+----
+
+.. image:: pictures/continuum.png
+   :target: http://http://www.continuum.io/
+
+We will revolutionize how the world's data is stored, computed, and
+visualized. We will provide domain experts with flexible tools that allow them
+to explore their data and maximize the impact of their insights. We will
+empower work-groups and businesses by recognizing that data analysis is a
+collaborative, exploratory activity.

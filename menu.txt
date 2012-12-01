@@ -12,10 +12,10 @@
      * `Important Dates <dates.html>`_
      * `Keynote Speakers <speakers.html>`_
 
-   * About
+   * `Location <location.html>`_
 
-     * `The Venue <venue.html>`_
-     * `Reaching the Venue <reaching.html>`_
-     * `Contact Us <contact.html>`_
+   * `Contact <contact.html>`_
+
+   * `Organizers <organizers.html>`_
 
    * `Sponsors <sponsors.html>`_

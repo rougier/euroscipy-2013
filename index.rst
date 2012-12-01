@@ -3,30 +3,38 @@
 .. include:: footer.txt
 
 
-Python for Education and Scientific Computing
-===============================================================================
+Euroscipy 2013, the 6th European meeting on Python in Science   
+=============================================================
 
-Python is an interpreted, interactive, object-oriented, open source, extensible
-programming language. It combines clarity and readability, making it an
-extremely powerful language that can be used for various applications and
-problems.
+.. image:: pictures/Brussels.png
 
-Python is simple and easy to learn and apply. It offers an interactive
-environment in which to explore procedural, functional and object oriented
-approaches to problem solving. Its high level data structures, extensive
-documentation and clear syntax make it an ideal first language, while the large
-number of existing libraries make it suitable to tackle almost any programming
-tasks. Its simplicity makes it easy to adapt to multiple educational domains.
+The EuroSciPy meeting is a cross-disciplinary gathering focused on the          
+use and development of the Python language in scientific research and           
+industry. This event strives to bring together both users and developers        
+of scientific tools, as well as academic research and state of the art          
+industry.     
 
-Python has several libraries that enable numeric and symbolic computing. It
-also interfaces well with native codes in C,C++ and FORTRAN and has excellent
-libraries for plotting/visualization. Python also provides libraries for
-general purpose computing including generating user interfaces and web
-development. These coupled with it's interactive interpreter make Python an
-excellent language for Scientific Computing.
+Main topics                                                                     
+-----------
+* Presentations of scientific tools and libraries using the Python language,
+  including but not limited to:
 
-All these features when combined with their wide-ranging applications make
-Python a perfect fit for use in Education, Industry and Scientific Computing.
+ * vector and array manipulation                                               
+ * parallel computing                                                          
+ * scientific visualization                                                    
+ * scientific data flow and persistence                                        
+ * algorithms implemented or exposed in Python                                 
+ * web applications and portals for science and engineering.                   
 
-Why Python?
-===============================================================================
+* Reports on the use of Python in scientific achievements or ongoing projects.
+
+* General-purpose Python tools that can be of special interest to the
+
+
+Tutorials                                                                       
+---------
+There will be two tutorial tracks at the conference, an introductory one,       
+to bring up to speed with the Python language as a scientific tool, and         
+an advanced track, during which experts of the field will lecture on            
+specific advanced topics such as advanced use of numpy, paralllel               
+computing, advanced testing...  

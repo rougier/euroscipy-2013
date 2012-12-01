@@ -8,6 +8,7 @@ Organizing committee
 Program chair
 -------------
 * Tiziano Zito, `TUB <http://www.tu-berlin.de>`_ 
+* Pierre de Buyl, 
 
 Tutorial chair
 --------------
@@ -22,19 +23,21 @@ Program committee
 -----------------
 * Tiziano Zito (chair)
 * Pierre de Buyl
-* Emmanuelle Gouillart
-* Hans Petter Langtangen
-* Mike Müller
+* Emmanuelle Gouillart,
+* Hans Petter Langtangen,
+* Mike Müller,
+* Kael Hanson,
+* Konrad Hinsen,
 * Nicolas Rougier, `INRIA <http://www.inria.fr>`_
-* Stefan Van Der Walt
+* Stefan Van Der Walt,
 * Gaël Varoquaux, `INRIA <http://www.inria.fr>`_
 * Nelle Varoquaux
 
 General organizing committee
 ----------------------------
-* Emmanuelle Gouillart
-* Mike Müller
-* Nicolas Chauvat
-* Nicolas Rougier
+* Emmanuelle Gouillart (Communication)
+* Mike Müller (Sponsorship)
+* Nicolas Chauvat (Website)
+* Nicolas Rougier (Poster/Flyer)
 
 

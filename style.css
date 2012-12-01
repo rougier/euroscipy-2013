@@ -24,12 +24,14 @@ img
 a
 {
     color: #224466;
+    text-decoration: none;
 }
 
 h1,
 h2,
 h3
 {
+    clear: both;
     font-family: Georgia, "Bitstream Vera Serif", Palatino, serif;
     font-weight: normal;
     line-height: 1em;
@@ -50,6 +52,7 @@ h2
     font-size: 1.5em;
     color: #337799;
     margin: 0.7em 0 0.5em 0;
+    padding-top: 1.5em;
 }
 
 h3
@@ -66,6 +69,20 @@ h5
     font-weight: normal;
     line-height: 1em;
     color:#337799;
+}
+
+.left
+{
+    float: left;
+    padding-right: 10px;
+}
+.right
+{
+    float: right;
+}
+.clear
+{
+    clear: both;
 }
 
 
@@ -148,6 +165,7 @@ h5
     color: white;
     font-size: 32pt;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 0 30px rgba(0, 0, 0, 0.075);
+    margin-bottom: 1em;
 }
 .header strong
 {

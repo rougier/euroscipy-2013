@@ -3,4 +3,4 @@
    .. image:: pictures/logo.png
 
    | **EuroScipy 2013**
-   | August 24-27, Brussels, Belgium
+   | August 21-24, Brussels, Belgium

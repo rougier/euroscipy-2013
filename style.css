@@ -29,7 +29,7 @@ table
 table th
 {
     color: #fff;
-    background-color: #99f;
+    background-color: #003F87;
     border-width: 1px 1px 0 0;
     border-style: solid;
     border-color: white;
@@ -155,6 +155,13 @@ h5
     margin: 0 2em;
     padding: 0;
 }
+
+.sponsors
+{
+ /*   width: 200px;*/
+    float: right;
+}
+
 .sidebar-title
 {
     display: none;

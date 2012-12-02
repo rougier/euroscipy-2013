@@ -12,7 +12,7 @@ The EuroSciPy meeting is a cross-disciplinary gathering focused on the
 use and development of the Python language in scientific research and           
 industry. This event strives to bring together both users and developers        
 of scientific tools, as well as academic research and state of the art          
-industry.     
+industry.
 
 Main topics                                                                     
 -----------

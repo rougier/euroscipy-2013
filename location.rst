@@ -23,6 +23,13 @@ Campus Map
    :scale: 50%
    :target: pictures/campus-map.png
 
+Access Map
+----------
+
+.. image:: pictures/access.png
+   :scale: 50%
+   :target: pictures/access.png
+
 
 
 Access from the airport

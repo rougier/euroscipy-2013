@@ -19,26 +19,25 @@ p {
 
 table
 {
-/*    width: 50%;*/
-   border: 0;
+    border: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+    border-style: solid;
     margin-left: 1em;
-/*    background-color: #eee;*/
 }
 
 table th
 {
-    border: 0;
     color: #fff;
     background-color: #99f;
+    border-width: 1px 1px 0 0;
+    border-style: solid;
+    border-color: white;
 }
 
 table td, table tr
 {
     border: 0;
-/*
-    padding-top:.25em;
-    padding-bottom:.25em;
-*/
 }
 
 
@@ -140,8 +139,10 @@ h5
 }
 .day
 {
-    font-size: 150%;
+    font-size: 125%;
     font-weight: normal;
+    display: block;
+    padding: .25em;
 }
 
 /* ------------------------------------------------------------- Sidebar --- */

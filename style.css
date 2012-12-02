@@ -16,6 +16,32 @@ p {
     margin-left: 1em;
     text-align: justify;
 }
+
+table
+{
+/*    width: 50%;*/
+   border: 0;
+    margin-left: 1em;
+/*    background-color: #eee;*/
+}
+
+table th
+{
+    border: 0;
+    color: #fff;
+    background-color: #99f;
+}
+
+table td, table tr
+{
+    border: 0;
+/*
+    padding-top:.25em;
+    padding-bottom:.25em;
+*/
+}
+
+
 img
 {
     border: 0;
@@ -63,9 +89,10 @@ h2
 h3
 {
     font-size: 1.35em;
-    font-style: italic;
+/*    font-style: italic;*/
     color: #337799;
     margin: 0.5em 0;
+    padding-top: 1em;
 }
 h4,
 h5
@@ -99,6 +126,17 @@ h5
     padding: 0;
     margin: 0 300px 0 220px;
     min-height: 850px;
+}
+
+.break
+{
+    font-size: 150%;
+    font-variant: small-caps;
+    display: block;
+    text-align: center;
+    background-color: #eee;
+    color: #224466;
+
 }
 
 /* ------------------------------------------------------------- Sidebar --- */
@@ -195,6 +233,7 @@ h5
 
 .footer
 {
+    padding-top: 2em;
     padding-bottom: 1em;
 }
 .footer p

@@ -6,6 +6,7 @@
    * `Call for papers <CFP.html>`_
    * `Keynote Speakers <speakers.html>`_
    * `Tutorials <tutorials.html>`_
+   * `Schedule <schedule.html>`_
    * `Location <location.html>`_
    * `Contact <contact.html>`_
    * `Organizers <organizers.html>`_

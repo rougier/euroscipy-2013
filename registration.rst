@@ -7,8 +7,6 @@ Registration
 
 *Registration is not yet open.*
 
-
-
 Fees
 ====
 Fees include coffee and lunch breaks.
@@ -25,3 +23,4 @@ Late registration
 * Tutorial only (2 days): **100 euros**
 * Conference only (2 days): **100 euros**
 * Conference + tutorial (4 days): **200 euros**
+

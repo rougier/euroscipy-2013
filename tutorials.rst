@@ -30,3 +30,10 @@ of the topic
 
 Tutors
 ------
+
+
+Past turorials
+---------------
+
+Here is a `list of tutorials <past_tutorials.html>`_ that were given during
+previous Euroscipy editions.

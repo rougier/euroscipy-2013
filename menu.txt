@@ -1,6 +1,7 @@
 .. sidebar:: Menu
 
    * `Home <index.html>`_
+   * `News <news.html>`_
    * `Important Dates <dates.html>`_
    * `Registration <registration.html>`_
    * `Call for papers <CFP.html>`_

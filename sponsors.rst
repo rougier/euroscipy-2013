@@ -1,6 +1,4 @@
-.. include:: header.txt
-.. include:: menu.txt
-.. include:: footer.txt
+.. include:: common.txt
 
 Sponsors
 ========
@@ -29,7 +27,6 @@ known being pylint, the Python source code checker. During EuroPython 2009
 Logilab will be presenting their CubicWeb framework.
 
 Logilab are sponsoring the signage for the event, so that you can get to the talks on time!
-
 
 ----
 

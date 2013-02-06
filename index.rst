@@ -1,6 +1,4 @@
-.. include:: header.txt
-.. include:: menu.txt
-.. include:: footer.txt
+.. include:: common.txt
 
 
 Euroscipy 2013, the 6th European meeting on Python in Science   

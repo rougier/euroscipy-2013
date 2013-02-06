@@ -1,6 +1,4 @@
-.. include:: header.txt
-.. include:: menu.txt
-.. include:: footer.txt
+.. include:: common.txt
 
 Tutorials
 =========
@@ -32,7 +30,7 @@ Tutors
 ------
 
 
-Past turorials
+Past tutorials
 ---------------
 
 Here is a `list of tutorials <past_tutorials.html>`_ that were given during

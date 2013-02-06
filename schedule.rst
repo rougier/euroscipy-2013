@@ -1,6 +1,5 @@
-.. include:: header.txt
-.. include:: menu.txt
-.. include:: footer.txt
+.. include:: common.txt
+
 .. role:: break
 .. role:: day
 

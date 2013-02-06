@@ -1,6 +1,4 @@
-.. include:: header.txt
-.. include:: menu.txt
-.. include:: footer.txt
+.. include:: common.txt
 
 Location
 ========
@@ -78,7 +76,7 @@ first crossroads, turn left and then take the first road to the right (Avenue
 de l'Orée). Finally, drive straight on to Avenue Franklin Roosevelt. Turn left
 to reach the campus.
 
-A**From the Ostende motorway (E40)**
+**From the Ostende motorway (E40)**
 
 Follow the direction Centre Ville (city centre), then take the tunnels to the
 exit to the Bois de la Cambre. Take the tunnel to the right and continue along

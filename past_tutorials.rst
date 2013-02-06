@@ -3,6 +3,33 @@
 Tutorials in previous EuroScipy
 ===============================
 
+
+2013 (Brussels)
+---------------
+
+Advanced
+~~~~~~~~
+
+* Chaco        - Didrik Pinte
+* Basemap      - Thomas Lecocq
+* scikit.image - Emmanuelle Gouillart
+* OpenGL       - Almar Klein
+
+* git          - Nelle Varoquaux
+* Sage         - Paul Zimmermann
+* IPython      - Matthias Buissonier
+* Cython       - Stefan Behnel (not confirmed) 
+
+
+Beginner
+~~~~~~~~
+* python     - Olivier Debeir
+* numpy      - Valentin Haenel
+* matplotlib - Nicolas Rougier
+* scipy      - Niko Wilbert (not confirmed)
+
+
+
 2012 (Brussels)
 ---------------
 
